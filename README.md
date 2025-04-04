@@ -56,6 +56,9 @@ Final-Task/
     - `videos`
   - أيقونة الصفحة موجودة في ملف `icon-Head`.
 
+## Visit the live project
+You can view the live project here: [https://aljoowebschool.github.io/Final-Task/](https://aljoowebschool.github.io/Final-Task/)
+
 ## 🚀 كيفية تشغيل المشروع
 1. افتح ملف `index` الموجود في مجلد `Final-Task` باستخدام المتصفح.
 2. تصفح الصفحات من خلال الروابط أو الأيقونات الموجودة في الصفحة الرئيسية.
